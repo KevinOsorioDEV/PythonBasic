@@ -1,1 +1,1 @@
-Ejerciios basicos de python.
+Ejercicios básicos de python.
