@@ -1,5 +1,5 @@
 def find_max(nums):
-    max_num = float("-inf")
+    max_num = 0
     for num in nums:
         if num > max_num:
             max_num = num

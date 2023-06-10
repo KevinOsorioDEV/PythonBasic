@@ -1,6 +1,6 @@
 def letras():
-    letra = "amnorr"
-    palabra = "romlar"
+    letra = "roma"
+    palabra = "amor"
 
     letra = list(letra)
     palabra = list(palabra)
