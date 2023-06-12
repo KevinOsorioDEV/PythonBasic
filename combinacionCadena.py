@@ -1,5 +1,5 @@
 def CombinacionesCadenas():
-    listaString = ["abc", "123"]
+    listaString = ["cs", "sc"]
 
     for i in range(len(listaString)):
         palabra = listaString[i]
